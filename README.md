@@ -83,6 +83,7 @@ assign bout=(a&b)|(bin&(a^b));
 endmodule
 ```
 **RTL Schematic**
+
 Full Adder
 
 <img width="990" height="634" alt="ex3 1" src="https://github.com/user-attachments/assets/d4930687-9cc4-4a19-a96e-33f921891b93" />
